@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "app": "Fintory",
+  "latest": "1.0.2",
+  "min": "1.0.1",
+  "message": "Important fixes and UI improvements.",
+  "links": {
+    "update": "itms-apps://itunes.apple.com/app/id6753191147",
+    "support": "https://li1kiss.github.io/FintoryPublic/fintory-support.html"
+  }
+}
