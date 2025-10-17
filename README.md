@@ -22,7 +22,7 @@ No registration, no ads, no data tracking — just you and your budget.
 ## 🌍 Support
 Need help or have feedback?  
 📧 [Contact support](mailto:kravchuk.mykhailo13@gmail.com)  
-🔒 [Privacy Policy](https://li1kiss.github.io/Fintory/fintory-privacy.html)
+🔒 [Privacy Policy](https://li1kiss.github.io/FintoryPublic/fintory-privacy.html)
 
 ---
 
@@ -33,8 +33,8 @@ GitHub: [@li1kiss](https://github.com/li1kiss)
 ---
 
 ## 🚀 Availability
-Fintory will be available soon on the [App Store](https://apps.apple.com/).
+The app is already available in the App Store. [Fintory](https://apps.apple.com/pl/app/fintory/id6753191147).
 
 ---
 
-© 2025 Mykhailo Kravchuk. All rights reserved.
+2025 Mykhailo Kravchuk
